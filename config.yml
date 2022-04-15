@@ -1,0 +1,13 @@
+portfolio:
+  # Currency pairs in proportion, up to 2 decimal places
+  # BTC: 40
+  ETH: 50
+  # USDT: 20
+  # ETH3L: 0.1
+  USDT: 50
+mode: "sub" # sandbox, sandbox_futures, main, futures, sub
+rebalanceRatio: 1.0
+sleepTimer: 1 # in seconds
+telegramAPI: 5066081530:AAFmNOcqwAvHeHCzSlPt8PLKrvnnejRECsc
+chatID: -582136934 #  1836567595 Luke # -582136934 GC
+botIdentifier: "$"
